@@ -7,7 +7,7 @@
 </head>
 <body>
     <ul>
-        <li>👋 Hi, I’m <span style="font-weight:bold;">prodMoon</span></li>
+        <li>👋 Hi, I’m <span style="font-weight:bold;">ProdMoon</span></li>
         <li>👀 I’m interested in Music</li>
         <li>🌱 I’m currently learning Algorithm, Data Structure</li>
         <li>💞️ I’m looking to collaborate on <span style="color:green;">SWJungle</span></li>
