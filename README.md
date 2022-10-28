@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **ProdMoon**   
 👀 I’m interested in **Music**   
-🌱 I’m currently learning ***C lang***   
+🌱 I’m currently learning ***C lang and Computer System***   
 💞️ I’m looking to collaborate on **SWJungle**   
 📫 How to reach me : mjh5241@gmail.com   
 ***
