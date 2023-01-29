@@ -1,11 +1,11 @@
 # 👋 Hi, I’m **ProdMoon**   
 👀 I’m interested in **Music**   
-🌱 I’m currently learning **Operating System (kaist-pintos)**   
+🌱 I’m currently learning **JAVASCRIPT, REACT**   
 💞️ I’m looking to collaborate on **SWJungle**   
 📫 How to reach me : mjh5241@gmail.com   
 ***
 ```javascript
-alert("Hello world! My links are below there...")
+alert("Hello world! My links are below there...");
 ```
 - [TISTORY](https://prodyou.tistory.com "ProdYou")
 
