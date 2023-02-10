@@ -5,7 +5,7 @@
 📫 How to reach me : mjh5241@gmail.com   
 ***
 ```javascript
-alert("Hello world! My links are below there...");
+console.info("Hello world! My links are below there...");
 ```
 - [TISTORY](https://prodyou.tistory.com "ProdYou")
 
