@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **ProdMoon**   
-👀 I’m interested in **Svelte, Flutter**   
-🌱 I’m currently learning **Javascript, React**   
-💞️ I’m looking to collaborate on **Anywhere**   
+👀 I’m interested in **Flutter**   
+🌱 I’m currently learning **C#, Javascript**   
+💞️ I’m looking to collaborate on **Seoul**   
 📫 How to reach me : mjh5241@gmail.com   
 ***
 ```javascript
