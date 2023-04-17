@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **ProdMoon**   
-👀 I’m interested in **Flutter**   
-🌱 I’m currently learning **C#, Javascript**   
+👀 I’m interested in **OpenAI API**   
+🌱 I’m currently learning **C#, Javascript, Vue, ASP.NET ...**   
 💞️ I’m looking to collaborate on **Seoul**   
 📫 How to reach me : mjh5241@gmail.com   
 ***
