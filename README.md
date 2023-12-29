@@ -8,7 +8,7 @@
 console.info("Hello world! My links are below there...");
 ```
 - [TISTORY](https://prodyou.tistory.com)
-- [COMPANY](https://event-us.kr)
+- [EVENT-US](https://event-us.kr)
 
 <!---
 prodMoon/prodMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
