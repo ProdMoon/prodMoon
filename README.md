@@ -15,12 +15,16 @@ Wanna spend some time?
 Here's simple but fascinating dodge game.   
 You'll find yourself at the *far future* when play this one.   
 
-### Blog
+### Blog   
 https://prodyou.tistory.com   
 Tistory is my main one.   
 
 https://pdmoonblog.com   
 This is my own website, in construction.   
+
+### Hiring?   
+Here's my résumé: https://junho-resume.vercel.app   
+It's a bit formal, anyway I hope it helps you get to know me.   
 
 <!---
 prodMoon/prodMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
