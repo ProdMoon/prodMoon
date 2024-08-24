@@ -1,14 +1,26 @@
 # 👋 Hi, I’m **ProdMoon**   
-👀 I’m interested in **Software Design Patterns**   
-🌱 I’m currently learning **C#, Javascript, Vue, ASP.NET ...**   
-💞️ I’m looking to collaborate on **Seoul, Korea**   
-📫 How to reach me : mjh5241@gmail.com   
+Currently working at [EVENT-US](https://event-us.kr).   
+I’m interested in **How to make business things.**   
+If you're finding business-thinking-driven software engineer, please feel free to reach me : mjh5241@gmail.com   
+
 ***
-```javascript
-console.info("Hello world! My links are below there...");
-```
-- [TISTORY](https://prodyou.tistory.com)
-- [EVENT-US](https://event-us.kr)
+
+### My Services   
+https://dliib.vercel.app   
+Dliib is a *Shorts like* funny text sharing service.   
+You can read some hilarious stories and also write your own.   
+
+https://sailor-mr-moon.vercel.app   
+Wanna spend some time?   
+Here's simple but fascinating dodge game.   
+You'll find yourself at the *far future* when play this one.   
+
+### Blog
+https://prodyou.tistory.com   
+Tistory is my main one.   
+
+https://pdmoonblog.com   
+This is my own website, in construction.   
 
 <!---
 prodMoon/prodMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
