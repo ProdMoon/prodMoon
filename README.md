@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **ProdMoon**   
-Currently working at [EVENT-US](https://event-us.kr).   
+Currently working at [TeamSparta](https://spartaclub.kr/).   
 I’m interested in **How to make business things.**   
 If you're finding business-thinking-driven software engineer, please feel free to reach me : mjh5241@gmail.com   
 
@@ -20,7 +20,7 @@ https://prodyou.tistory.com
 Tistory is my main one.   
 
 https://pdmoonblog.com   
-This is my own website, in construction.   
+This is my own website.   
 
 ### Hiring?   
 Here's my résumé: https://junho-resume.vercel.app   
